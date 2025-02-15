@@ -1,0 +1,69 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: "Monda", serif;
+}
+
+.container{
+    padding: 30px;
+}
+
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.section-one__contact{
+    color: black;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.section-two{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.section-two__title a{
+    text-decoration: none;
+    color: gold;
+}
+
+.button{
+    background-color: red;
+    padding: 10px;
+    border: none;
+}
+
+.section-two{
+    margin-top: 20px;
+}
+
+
+.contact-form{
+    margin-top: 10px;
+}
+
+
+.contact-form td{
+    padding-top: 20px;
+}
+
+.contact-form__input{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.contact-form__textarea{
+    border: none;
+    border: 1px solid black;
+}

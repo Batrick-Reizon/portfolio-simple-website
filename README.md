@@ -1,5 +1,3 @@
-# portfolio-simple-website
-A simple portfolio website showcasing my work, skills, and contact details.
 # Personal Portfolio Website
 
 This is a *simple and responsive* personal portfolio website built using *HTML and basic CSS. It contains a **Home* page introducing myself and a *Contact* page for visitors to reach out.

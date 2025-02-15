@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: "Monda", serif;
+}
+
+.container{
+    padding: 0px;
+}
+
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.section-one__contact{
+    color: black;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.section-one__name{
+    font-size: 50px;
+}
+
+.section-one__role{
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+.section-two,.section-three,.section-four,.section-five{
+    margin-top: 20px;
+}
+
+.section-two__desc,.section-three__desc,.section-four__desc,.section-five__desc{
+    margin-top: 10px;
+}
+
+.section-five{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.section-five__title a{
+    text-decoration: none;
+    color: forestgreen;
+}
+
+.section-three li,.section-four li{
+    list-style: none;
+}
+
+.section-three{
+    background-color: darkslateblue;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    height: 200px;
+    vertical-align: top;
+}
+
+.section-four{
+    background-color: orangered;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    height: 200px;
+    vertical-align: top;
+    width: 600px;
+}
+
